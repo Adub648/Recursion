@@ -1,6 +1,6 @@
 # Recursion
 
-Two ruby files with separate algorithms.
+Two ruby files with separate algorithms made as a part of [The Odin Project](theodinproject.com) curriculum.
 
 The `fibonacci.rb` file contains two algorithms that determine a certain amount of numbers in the fibonacci sequence, both using iteration and recursion.
 
